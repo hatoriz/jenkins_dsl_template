@@ -1,3 +1,4 @@
 jenkins_data
 vagrant/ci_master/.vagrant
 vagrant/ci_slave_java8/.vagrant
+*/*/.vagrant
